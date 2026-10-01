@@ -16,8 +16,12 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 KICK_SLUGS = [
     "xqc", "adinross", "trainwreckstv", "hasanabi", "westcol", "ibai",
     "loltyler1", "kaicenat", "forsen", "roshtein", "elxokas", "lathyrx",
-    "jynxzi", "bagels", "slakun", "clix", "summit1g", "shroud", "s1mple",
-    "gaules", "thebausffs", "auronplay", "adamaris", "grimmgreen",
+    "jynxzi", "clix", "summit1g", "shroud", "s1mple", "gaules",
+    "thebausffs", "bagels", "slakun", "grimmgreen", "adamaris", "tectone",
+    "auronplay", "missjoy", "xseira", "ludwig", "nickmercs", "pokimane",
+    "sodapoppin", "tarik", "valorant", "caedrel", "kaiicenat",
+    "moistcr1tikal", "asmongold", "buddha", "jbags", "jerma985",
+    "moonmoon", "quin69", "timthetatman", "scump",
 ]
 
 
