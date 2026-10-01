@@ -1,0 +1,13 @@
+{
+  "id": "com.ddr.livetv",
+  "version": "1.0.0",
+  "name": "Live TV: Twitch + Kick",
+  "description": "Canales en vivo de Twitch y Kick, organizados por plataforma",
+  "resources": ["catalog", "stream", "meta"],
+  "types": ["tv"],
+  "idPrefixes": ["twitch_", "kick_"],
+  "catalogs": [
+    { "type": "tv", "id": "twitch_top", "name": "Twitch · Top en vivo", "extra": [{ "name": "skip" }, { "name": "count" }] },
+    { "type": "tv", "id": "kick_live", "name": "Kick · En vivo", "extra": [{ "name": "skip" }, { "name": "count" }] }
+  ]
+}
